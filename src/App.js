@@ -81,6 +81,11 @@ function App() {
           );
         })}
       </body>
+      <footer>
+        <i>
+          <h6>Other cities coming soon...</h6>
+        </i>
+      </footer>
     </div>
   );
 }
